@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-ml.png)
 
-![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/Reply-MLOps-Architecture-1.png)
+![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/aws-MLOps-Architecture-1.png)
