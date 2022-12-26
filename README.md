@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-data-fundamentals-600x600.png)
+![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-data-fundamentals.png)
+
+- 🔭 I’m currently working on ...
+
 ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/databricks-ml-og2.png)
+
 ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-ml.png)
+
 ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/Reply-MLOps-Architecture-1.png)
