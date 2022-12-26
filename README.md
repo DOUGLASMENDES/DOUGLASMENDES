@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/databricks-ml-og.png)
+![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-data-fundamentals-600x600.png)
+![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/databricks-ml-og2.png)
+![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-ml.png)
+![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/Reply-MLOps-Architecture-1.png)
