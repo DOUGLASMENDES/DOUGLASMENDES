@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-data-fundamentals.png)[a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-ai-fundamentals.png)
+![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-data-fundamentals.png) ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-ai-fundamentals.png)
 
 - 🔭 I’m currently working on ...
 
