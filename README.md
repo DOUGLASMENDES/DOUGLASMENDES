@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-data-fundamentals.png) ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-ai-fundamentals.png)
 
+Check out all my badges: https://www.credly.com/users/douglas-mendes.27da901e/
+
 - 🔭 I’m currently working on ...
 
 ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/databricks-ml-og2.png)
