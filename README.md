@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-data-fundamentals.png) ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-ai-fundamentals.png)
+![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/professional-machine-learning-engineer-certificatio_176px.png) ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-data-fundamentals.png) ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-ai-fundamentals.png) 
 
 Check out all my badges: [https://www.credly.com/users/dougl4smendes](https://www.credly.com/users/dougl4smendes)
 
