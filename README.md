@@ -26,3 +26,5 @@ Check out all my badges: [https://www.credly.com/users/dougl4smendes](https://ww
 ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/aws-MLOps-Architecture-1.png)
 
 ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/gcp-ml-journey-1024x609.png)
+
+![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/gcp-ai-ml-services.png)
