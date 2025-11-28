@@ -28,8 +28,12 @@ Here are some ideas to get you started:
 - **[Trading Bot BTC Binance](https://github.com/DOUGLASMENDES/trading-bot-btc-binance-moving-average)**  
   Automated trading bot using moving averages for BTC trading on Binance.​
 
+- **[Telecom MLOps LLMOps](https://github.com/SoftEngineering/telecom_mlops_llmops)**
+A benchmark platform for MLOps and LLMOps in Telecom, using Google Cloud (Vertex AI, BigQuery, Cloud Run) to build a batch churn model and an LLM assistant with RAG, CI/CD, and end-to-end monitoring.
+
 - **[MLOps Pipeline](https://github.com/DOUGLASMENDES/mlops-pipeline)**  
   
+
 
 ---
 
