@@ -49,7 +49,7 @@ A benchmark platform for MLOps and LLMOps in Telecom, using Google Cloud (Vertex
 
 ## 📜 Licenses and Certifications
 
-![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/professional-machine-learning-engineer-certificatio_176px.png) ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-data-fundamentals.png) ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-ai-fundamentals.png) 
+![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/professional-machine-learning-engineer-certificatio_176px.png)  ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/Databricks-Professional-badge-ML-optim145.png) ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-data-fundamentals.png) ![a building](https://github.com/DOUGLASMENDES/DOUGLASMENDES/raw/main/azure-ai-fundamentals.png) 
 
 Check out all my badges: [https://www.credly.com/users/dougl4smendes](https://www.credly.com/users/dougl4smendes)
 
